@@ -1,4 +1,4 @@
-package com.pku.dengyunhan.yinyue;
+package com.pku.dengyunhan.music;
 
 import android.app.DatePickerDialog;
 import android.app.TimePickerDialog;
@@ -18,10 +18,9 @@ import android.widget.TimePicker;
 import android.widget.Toast;
 
 
-import com.pku.dengyunhan.yinyue.adapter.MusicPagerAdapter;
-import com.pku.dengyunhan.yinyue.fragment.LogicFragment;
-import com.pku.dengyunhan.yinyue.fragment.OnlineFragment;
-import com.example.shaoyangyang.shaoshuaih.R;
+import com.pku.dengyunhan.music.adapter.MusicPagerAdapter;
+import com.pku.dengyunhan.music.fragment.LogicFragment;
+import com.pku.dengyunhan.music.fragment.OnlineFragment;
 
 import java.util.ArrayList;
 import java.util.Calendar;

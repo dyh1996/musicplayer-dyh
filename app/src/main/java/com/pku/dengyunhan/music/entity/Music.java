@@ -1,4 +1,4 @@
-package com.pku.dengyunhan.yinyue.entity;
+package com.pku.dengyunhan.music.entity;
 
 import android.graphics.Bitmap;
 

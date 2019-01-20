@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.shaoyangyang.shaoshuaih.com.pku.dengyunhan.yinyue.MainActivity">
+    tools:context="com.pku.dengyunhan.music.com.pku.dengyunhan.yinyue.MainActivity">
 
     <LinearLayout
         android:id="@+id/main_top_linlayout"

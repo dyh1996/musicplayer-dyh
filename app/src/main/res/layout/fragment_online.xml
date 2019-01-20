@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.shaoyangyang.shaoshuaih.com.example.shaoyangyang.dengyunhan.fragment.OnlineFragment">
+    tools:context="com.pku.dengyunhan.music.com.example.shaoyangyang.dengyunhan.fragment.OnlineFragment">
 
     <!-- TODO: Update blank fragment layout -->
 

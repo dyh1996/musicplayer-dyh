@@ -1,4 +1,4 @@
-package com.pku.dengyunhan.yinyue.fragment;
+package com.pku.dengyunhan.music.fragment;
 
 
 import android.Manifest;
@@ -27,11 +27,11 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.RemoteViews;
 
-import com.pku.dengyunhan.yinyue.adapter.MusicAdapter;
-import com.pku.dengyunhan.yinyue.entity.Music;
-import com.pku.dengyunhan.yinyue.utils.Common;
-import com.pku.dengyunhan.yinyue.MusicActivity;
-import com.example.shaoyangyang.shaoshuaih.R;
+import com.pku.dengyunhan.music.adapter.MusicAdapter;
+import com.pku.dengyunhan.music.entity.Music;
+import com.pku.dengyunhan.music.utils.Common;
+import com.pku.dengyunhan.music.MusicActivity;
+import com.pku.dengyunhan.music.R;
 import com.master.permissionhelper.PermissionHelper;
 
 import java.util.List;

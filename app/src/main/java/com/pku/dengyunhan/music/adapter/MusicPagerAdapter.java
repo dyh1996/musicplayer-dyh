@@ -1,4 +1,4 @@
-package com.pku.dengyunhan.yinyue.adapter;
+package com.pku.dengyunhan.music.adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

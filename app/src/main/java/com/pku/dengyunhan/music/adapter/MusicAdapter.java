@@ -1,4 +1,4 @@
-package com.pku.dengyunhan.yinyue.adapter;
+package com.pku.dengyunhan.music.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,9 +8,9 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.pku.dengyunhan.yinyue.entity.Music;
-import com.example.shaoyangyang.shaoshuaih.R;
-import com.pku.dengyunhan.yinyue.utils.Common;
+import com.pku.dengyunhan.music.entity.Music;
+import com.pku.dengyunhan.music.R;
+import com.pku.dengyunhan.music.utils.Common;
 
 import java.util.List;
 

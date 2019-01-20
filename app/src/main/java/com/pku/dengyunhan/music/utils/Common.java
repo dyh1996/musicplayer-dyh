@@ -1,6 +1,6 @@
-package com.pku.dengyunhan.yinyue.utils;
+package com.pku.dengyunhan.music.utils;
 
-import com.pku.dengyunhan.yinyue.entity.Music;
+import com.pku.dengyunhan.music.entity.Music;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.pku.dengyunhan.yinyue.utils;
+package com.pku.dengyunhan.music.utils;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

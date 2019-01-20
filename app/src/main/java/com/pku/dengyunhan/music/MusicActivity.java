@@ -1,4 +1,4 @@
-package com.pku.dengyunhan.yinyue;
+package com.pku.dengyunhan.music;
 
 import android.animation.ObjectAnimator;
 import android.animation.ValueAnimator;
@@ -22,11 +22,10 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.pku.dengyunhan.yinyue.entity.Music;
-import com.pku.dengyunhan.yinyue.utils.BlurUtil;
-import com.pku.dengyunhan.yinyue.utils.Common;
-import com.example.shaoyangyang.shaoshuaih.R;
-import com.pku.dengyunhan.yinyue.utils.MergeImage;
+import com.pku.dengyunhan.music.entity.Music;
+import com.pku.dengyunhan.music.utils.BlurUtil;
+import com.pku.dengyunhan.music.utils.Common;
+import com.pku.dengyunhan.music.utils.MergeImage;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;

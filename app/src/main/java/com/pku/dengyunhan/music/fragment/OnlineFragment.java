@@ -1,4 +1,4 @@
-package com.pku.dengyunhan.yinyue.fragment;
+package com.pku.dengyunhan.music.fragment;
 
 
 import android.os.Bundle;
@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.example.shaoyangyang.shaoshuaih.R;
+import com.pku.dengyunhan.music.R;
 
 /**
  * A simple {@link Fragment} subclass.

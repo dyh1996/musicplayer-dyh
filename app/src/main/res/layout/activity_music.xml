@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.shaoyangyang.shaoshuaih.com.example.shaoyangyang.dengyunhan.MusicActivity">
+    tools:context="com.pku.dengyunhan.music.com.example.shaoyangyang.dengyunhan.MusicActivity">
 
     <ImageView
         android:id="@+id/music_bg_imgv"
